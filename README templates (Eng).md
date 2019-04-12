@@ -1,5 +1,3 @@
-# JSP
-학교 웹 과제 
 
 ## Project title
 A little info about your project and/ or overview that explains **what** the project is about.
